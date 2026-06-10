@@ -5,6 +5,8 @@
 Install dependencies:  
 pip install torch torchvision pandas pillow matplotlib numpy
 
+Project directory should contain folder of all training images and folder of all testing images in the same directory as the source code. 
+
 # Training and Inference
 
 Run:  
